@@ -2,7 +2,7 @@
 <h3 align="center">Foundations of coding:Learning C and C++</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nirmal jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmal jaiswal" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/nirmal-jaiswal-01b747186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmal jaiswal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
