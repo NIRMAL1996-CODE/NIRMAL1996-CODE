@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm NIRMAL JAISWAL</h1>
-<h3 align="center">🚀 Frontend Developer | Passionate Learner | UI Enthusiast</h3>
+<h3 align="center">🚀 Creative Frontend Developer</h3>
 
 ---
 
-<h3 align="center">💻 Tech Stack</h3>
+<h3 align="center mb-10"> Tech Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,c,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,threejs,nodejs,express,auth,vercel,postman,git,github,vscode,c,cpp" />
 </p>
 
 ---
 
-<h3 align="center">📚 Foundations of Coding</h3>
+<h3 align="center">📚 Skills & Tools</h3>
 <p align="center">
-C • C++ • DSA • HTML • CSS • Tailwind CSS • JavaScript • TypeScript • React.js • Node.js
+C • C++ • DSA • HTML • CSS • Tailwind CSS • JavaScript • TypeScript • React.js • Next.js • Three.js • GSAP • Node.js • Express.js • Postman • Vercel
 </p>
 
 ---
